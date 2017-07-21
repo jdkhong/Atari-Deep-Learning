@@ -7,9 +7,7 @@ Original code by kkweon
 https://gist.github.com/kkweon/7c72425c34166e6759f57b2dbfc7c893
 
 Implementation of "Efficient Parallel Methods for Deep Reinforcement Learning"
-
 https://github.com/Alfredvc/paac
-
 https://arxiv.org/abs/1705.04862
 
 Other
