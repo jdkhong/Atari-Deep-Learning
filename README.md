@@ -4,6 +4,10 @@ Read my paper regarding this project by clicking the following link:
 
 [Parallel Deep Learning in Atari Pong by Jerry Khong](https://github.com/jerrykhong/Atari-Deep-Learning/blob/master/deeplearning.pdf)
 
+If you're interested in the seeing the visual results, please take a look at 
+
+I also gave a presentation on my project, check out the slides!
+[Presentation Slides](https://github.com/jerrykhong/Atari-Deep-Learning/blob/master/slides.pdf)
 
 # Sources: 
 
